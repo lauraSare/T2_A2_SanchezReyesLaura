@@ -12,7 +12,7 @@
  * 		-Dominio del sitio web de la empresa/institución a la inversa
  * 
  * 			EJEMPLO: www.tecjrez.edu.mx
- * 					PAQUETE: edu.tecjerez	
+ * 					PAQUETE: edu.tecjrez	
  * 
  * 		Se debe declarar al inicio del codigo fuente, antes de las importaciones de otros paquetes 
  * 		atraves de la palabra reservada PACKAGE
